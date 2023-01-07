@@ -89,8 +89,8 @@ svg.material-icons:not(:last-child) {
   border-radius: 4px;
   border: 1px solid #eee;
   background-color: #E64C27;
-  height: 60px;
-  width: 200px;
+  height: 40px;
+  width: 150px;
   margin: 0 8px 16px;
   padding: 16px;
   display: flex;
@@ -254,11 +254,6 @@ footer a {
   width: 16px;
   margin-right: 4px;
 }
-
-.nav-link {
-  color: #403C3A !important;
-}
-
 
 svg#clouds {
   position: fixed;
