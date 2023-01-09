@@ -42,3 +42,7 @@ Run Angular server
 ```bash
   ng serve
 ```
+
+## Developed by:
+EL BELHADJI Soumaya
+FAHAM Hassan
